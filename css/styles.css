@@ -4510,10 +4510,14 @@ input[type=button].btn-block {
 .googleplus {
   background-color: #bd2c00;
 }
+.excel {
+  background-color: #1D6F42;
+}
 
 .facebook,
 .twitter,
-.googleplus {
+.googleplus,
+.excel {
   color: #fff;
 }
 
